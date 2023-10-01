@@ -48,4 +48,11 @@
         "language": "English",
         "director": "James Wan"
     }
+       {
+        "id": 6,
+        "name": "Insidious",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "James Wan"
+    }
 ]
